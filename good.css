@@ -1,0 +1,82 @@
+body{
+    background-image: url(background\ anime.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    border-style: double;
+    color: black;
+    font-family: 'Silkscreen', cursive;
+    background-color:antiquewhite;
+}
+h4{
+    color: navajowhite;
+}
+ul{
+    color: navajowhite;
+}
+a{
+    color: darkred;
+}
+h4{
+    color: navajowhite;
+}
+h5{
+    color: cyan;
+    border-style: outset;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: red;
+    padding: 5px;
+}
+h4{
+    border-style: double;
+    border-width: 5px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 5px;
+}
+h1{
+    border-style: inset;
+    border-width: 5px;
+    border-color: red;
+    border-radius:10px;
+}
+p1{ color: black;
+    background-color:antiquewhite ;
+
+}
+p2{ color: black;
+    background-color: antiquewhite;
+
+}
+p3{ color: black;
+    background-color: antiquewhite;
+
+}
+hr{
+    border-style: ;
+}
+h5{ color: black;
+    border-style:double;
+    background-color: antiquewhite;
+    border-color: black;
+}
+h4{
+    color: black;
+    background-color: antiquewhite;
+}
+ul{
+    color: black;
+    border-style: double;
+    background-color: antiquewhite;
+}
+h1{
+    border-style:double;
+    color: black;
+    background-color: antiquewhite;
+    border-color: black;
+    border-radius: 15px;
+}
